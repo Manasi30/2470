@@ -2,7 +2,7 @@
 This is my first Java Project for Revature batch 2470.
 
 # Description 
-This project is 
+This project is a functional banking application. It should 
 
 
 ## Technologies
